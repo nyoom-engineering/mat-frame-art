@@ -29,6 +29,8 @@ Ratio of the white mat to the image can be specified with the `--mat-rato <float
 
 You can also use `make build` to build the crate, and `make clean` to clean up the working directory. 
 
+As the logo need to be rendered and antialiased, it is a relatively expensive operation, keep this in mind if you are doing large batch operations
+
 ## Samples
 
 ![cooper_lobzov_3500_300_dpi_compressed](https://github.com/user-attachments/assets/e1d173b8-8501-44ae-ad3f-e3db43ae3b6a)
